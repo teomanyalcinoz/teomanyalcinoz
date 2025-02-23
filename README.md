@@ -3,7 +3,7 @@
 
 ## `~$ whoami`
 
-i am a computer engineering student who interest in cyber security,i learn CCNA 200-301 for network security,also working on Python and Vue.js
+i am a cybersec eng. who interest in digital forensics, cyber threat intelligence and incident response.
 
 How to reach me: teoyalcinoz@gmail.com 
 
